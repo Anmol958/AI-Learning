@@ -1,0 +1,6 @@
+{
+  "greet": ["hi", "hello", "hey there", "good morning", "yo", "hey"],
+  "about_bot": ["who are you", "what can you do", "tell me about yourself", "what is your role"],
+  "help": ["help", "i need help", "can you help me", "assist me", "i'm stuck"],
+  "goodbye": ["bye", "goodbye", "see you", "catch you later", "bye bye"]
+}
